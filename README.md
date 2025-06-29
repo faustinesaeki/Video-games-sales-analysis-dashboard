@@ -19,6 +19,12 @@
 - **notebook.ipynb** - Jupyter Notebook с чисткой данных, их извлечением
 - **requirements.txt** - необходимые для установки компаненты
 
+Установка:
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 - **data/**- папка со всеми .csv файлами
