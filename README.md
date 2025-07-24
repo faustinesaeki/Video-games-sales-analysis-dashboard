@@ -1,5 +1,7 @@
 # 👾 Анализ продаж видеоигр
 
+## Приложение [здесь](https://video-games-sales-analysis-dashboard-yhdgjyrhnncv75rsbtsuen.streamlit.app/)
+
 Небольшой дашборд, собранный на:
 - pandas
 - streamlit
@@ -34,9 +36,6 @@ pip install -r requirements.txt
 ## Превью дашборда
 ![alt text](assets/screenshot1.png)
 ![alt text](assets/screenshot2.png)
-![alt text](assets/screenshot3.png)
-![alt text](assets/screenshot4.png)
-![alt text](assets/screenshot5.png)
 
 ## Ресурсы
 Использованный датасет:  https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales
